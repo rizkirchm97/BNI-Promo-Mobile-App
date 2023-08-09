@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="BNI_Promo_-_Mobile_App.bni-promo-home" target="17" />
+      <module name="BNI_Promo_-_Mobile_App.bnipromo-home" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
