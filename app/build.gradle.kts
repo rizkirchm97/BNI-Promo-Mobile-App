@@ -63,6 +63,8 @@ dependencies {
     implementation(libs.uiToolingPreview)
     implementation(libs.material3)
 
+    implementation(libs.core.ktx)
+
     // Unit Test
     testImplementation(libs.junit.jupiter)
 
